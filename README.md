@@ -10,10 +10,10 @@ Input file: JSON export file from "enpass"<br>
 Output file: CSV file to inport into "keepassxc"
 
 <H2>Dependencies</H2>
-* JDK: tested with OpenJDk 16.0.1
-* libs: 
-* * https://github.com/stleary/JSON-java.git: json-java.jar Tag 20210307
-* * https://commons.apache.org/proper/commons-io/: Apache Commons IO 2.11.0
+<li>JDK: tested with OpenJDk 16.0.1</li>
+<li>libs: </li>
+<li>https://github.com/stleary/JSON-java.git: json-java.jar Tag 20210307</li>
+<li>https://commons.apache.org/proper/commons-io/: Apache Commons IO 2.11.0</li>
 
 <H2>How to run it</H2>
 
